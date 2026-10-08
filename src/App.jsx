@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 
 function App() {
-  const [message, setMessage] = useState("Welcome to my CI Demo Project!");
+  const [message, setMessage] = useState("Welcome to my CI Demo Project s!");
 
   return (
     <div className="container">
